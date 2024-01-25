@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://wakatime.com/@87445a59-3f3c-42cd-826d-3b316e222d42"><img src="https://wakatime.com/badge/user/87445a59-3f3c-42cd-826d-3b316e222d42.svg" alt="Total time coded since May 26 2023" /></a>
 
 <!--
 **jeho12/jeho12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
